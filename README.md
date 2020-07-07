@@ -23,7 +23,7 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 - If you want to embed images, this is how you do it:
 `![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
 - Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
-- You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
-- Any word wrapped with two tildes `(like ~~this~~)` will appear crossed out. ~example~
+- You can create tables by assembling a list of words and dividing them with hyphens `- (for the first row), and then separating each column with a pipe |:
+- Any word wrapped with two tildes `(like ~~this~~)` will appear crossed out. ~~example~~
 - you can use `#` to make headings you can use one `#` all the way up to six `######` one being the largest and six being the smallest
 - `* *` can be use to *italicize* text
