@@ -27,3 +27,9 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 - Any word wrapped with two tildes `(like ~~this~~)` will appear crossed out. ~~example~~
 - you can use `#` to make headings you can use one `#` all the way up to six `######` one being the largest and six being the smallest
 - `* *` can be use to *italicize* text
+
+
+
+
+## Table of Contents
+- [Tools and Terminal](tools-terminal.md
