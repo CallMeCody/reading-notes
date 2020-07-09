@@ -1,6 +1,7 @@
 # Welcome to my site!
 
-    ## My name is Cody Carpenter.
+
+## My name is Cody Carpenter.
 
 I'm currently working on becoming a software developer!
 
