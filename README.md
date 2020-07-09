@@ -32,4 +32,5 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 
 
 ## Table of Contents
-- [Tools and Terminal](tools-terminal.md
+- [Tools and Terminal](tools-terminal.md)
+- [Github Notes](git-github-notes.md)
