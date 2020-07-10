@@ -17,3 +17,4 @@ These are my notes for references on things I've learned during my classes with 
 - [Reading Notes](growth-mindset.md)
 - [Markdown Notes](markdown-notes.md)
 - [Tools and Terminal](tools-terminal.md)
+- [HTML Notes](html-notes.md)
