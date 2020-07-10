@@ -35,7 +35,6 @@
 
 ###### Visual Hierarchy
 - if service appeals to user show what it does, how much it costs, who uses it
--
 
 ###### Grouping
 - Proximity 
