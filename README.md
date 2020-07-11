@@ -19,3 +19,4 @@ These are my notes for references on things I've learned during my classes with 
 - [Tools and Terminal](tools-terminal.md)
 - [HTML Notes](html-notes.md)
 - [CSS Notes](css-notes.md)
+- [JavaScript Notes](javascript-notes.md)
