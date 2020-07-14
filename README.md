@@ -20,3 +20,5 @@ These are my notes for references on things I've learned during my classes with 
 - [HTML Notes](html-notes.md)
 - [CSS Notes](css-notes.md)
 - [JavaScript Notes](javascript-notes.md)
+- [Computer Notes](computer-notes.md)
+- [Function Notes](function-notes.md)

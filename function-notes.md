@@ -1,0 +1,23 @@
+- Script - reference to code (JavaScript) that can be executed
+- Programmatic problem solving - an approach, schedule or plan, step by step process (thinking like a computer)
+- Expression - any valid set of literals, variables, operators, and expressions that evaluates to a single value. The value may be a number, a string, or a logical value.
+- Operator - a symbol that is used to perform an operation.
+- Function - a set of statements that performs a task or calculates a value. To use a function, you must define it somewhere in the scope from which you wish to call it.
+    - Declaration - defines a function with the specified parameters
+    - Call - when you use the funtion `()` when you execute funtion or INVOKE the funtion
+    - Parameters - passed in when you DECLARE funtion - general
+    - Arguments - passed in when CALL funtion - specific
+    - Return value - returns true of false
+- Refactoring - "cleaning" or change to suit another purpse, better practice, more efficient
+
+#### operators
+- `&&` logical and
+- `||` logical or
+- `!`
+- `==` comparative equals
+- `>`
+- `>=`
+- `<`
+- `<=`
+- `!=`
+- `===` strict equals
