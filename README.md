@@ -22,3 +22,4 @@ These are my notes for references on things I've learned during my classes with 
 - [JavaScript Notes](javascript-notes.md)
 - [Computer Notes](computer-notes.md)
 - [Function Notes](function-notes.md)
+- [For and While Loops](loops-notes.md)
