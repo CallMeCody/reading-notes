@@ -23,3 +23,4 @@ These are my notes for references on things I've learned during my classes with 
 - [Computer Notes](computer-notes.md)
 - [Function Notes](function-notes.md)
 - [For and While Loops](loops-notes.md)
+- [Class 01](class-01.md)
