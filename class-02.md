@@ -2,24 +2,33 @@
 
 
 `<h1>` Main Heading
+
 `<h2>` Level 2 Heading
+
 `<h3>` Level 3 Heading
+
 `<h4>` Level 4 Heading
+
 `<h5>` Level 5 Heading
+
 `<h6>` Level 6 Heading
 
 `<h1>` tag is the biggest.
 
 `<b></b>` = makes bold
+
 `<sup></sup>` = exponent (superscript)
+
 `<sub></sub>` = base (subscript)
+
 `<i></i>` = changes to italics
+
 `<hr />` = a spacer line (horizontal rule) in between text elements.
 visual editors seem to be programs which allow you to affect the structure of a page without directly writing code.
 semantic markup is used to better define the contents of the page for screen readers and browsers, but can sometimes affect the appearance.
 `<strong></strong>` = this bit is important emphasis it for the screen reader and put it in bold on screen.
 `<em></em>` = ads emphasis to words to subtly change the meaning of a sentence for the screen reader and add italics on screen.
-`<blockquote cite='link'></blockquote>` = shows the contained element to be a quote. Browsers will usually indent the <p> contained but general indentation should be done through css.
+`<blockquote cite='link'></blockquote>` = shows the contained element to be a quote. Browsers will usually indent the `<p>` contained but general indentation should be done through css.
 `<q></q>` = used to put a shorter quote inside a `<p>` tag. both elements can use the cite attribute.
 `<abbr></abbr>` = provides unabbreviated term when mouse hovers over abbreviation
 `<cite></cite>` = used to indicate origin of citation (group or association title not persons name).
