@@ -1,4 +1,4 @@
-# Class 02
+# Class 03
 
 ### Lists (HTML - Chapter 3, pp. 62-73)
 Ordered lists

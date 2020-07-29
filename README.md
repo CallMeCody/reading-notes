@@ -28,3 +28,4 @@ These are my notes for references on things I've learned during my classes with 
 - [Class 01](class-01.md)
 - [Class 02](class-02.md)
 - [Class 03](class-03.md)
+- [Class 04](class-04.md)
