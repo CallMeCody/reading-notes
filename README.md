@@ -33,3 +33,4 @@ These are my notes for references on things I've learned during my classes with 
 - [Class 06](class-06.md)
 - [Class 07](class-07.md)
 - [Class 08](class-08.md)
+- [Class 09](class-09.md)
