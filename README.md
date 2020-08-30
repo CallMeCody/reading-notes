@@ -37,3 +37,5 @@ These are my notes for references on things I've learned during my classes with 
 - [Class 10]()
 - [Class 11]()
 - [Class 12](class-12.md)
+- [Class 13](class-13.md)
+- [Class 14](class-14.md)
