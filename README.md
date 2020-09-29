@@ -40,3 +40,4 @@ These are my notes for references on things I've learned during my classes with 
 - [Class 13](class-13.md)
 - [Class 14](class-14.md)
 ### 301
+- [Class 01](301/class-01.md)
