@@ -57,7 +57,7 @@ These are my notes for references on things I've learned during my classes with 
 - [Class 15](301/class-15.md)
 ### 401
 - [Class 01](401/class-01.md)
-- [Class 02]()
+- [Class 02](401/class-02.md)
 - [Class 03]()
 - [Class 04]()
 - [Class 05]()
