@@ -58,6 +58,6 @@ These are my notes for references on things I've learned during my classes with 
 ### 401
 - [Class 01](401/class-01.md)
 - [Class 02](401/class-02.md)
-- [Class 03]()
+- [Class 03](401/class-03.md)
 - [Class 04]()
 - [Class 05]()
