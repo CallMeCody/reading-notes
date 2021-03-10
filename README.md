@@ -61,3 +61,4 @@ These are my notes for references on things I've learned during my classes with 
 - [Class 03](401/class-03.md)
 - [Class 04](401/class-04.md)
 - [Class 05](401/class-05.md)
+- [Class 06](401/class-06.md)
