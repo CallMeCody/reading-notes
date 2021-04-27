@@ -68,4 +68,11 @@ These are my notes for references on things I've learned during my classes with 
 - [Class 10](401/class-10.md)
 - [Class 11](401/class-11.md)
 - [Class 12](401/class-12.md)
+- [Class 13](401/class-13.md)
+- [Class 14](401/class-14.md)
+- [Class 15](401/class-15.md)
+- [Class 16](401/class-16.md)
+- [Class 17](401/class-17.md)
+- [Class 18](401/class-18.md)
+- [Class 19](401/class-19.md)
 
